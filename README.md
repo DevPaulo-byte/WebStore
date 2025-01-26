@@ -22,6 +22,8 @@ API Fetch: Para interagir com APIs e trazer dados dinâmicos para o site.
 Estrutura de Pastas
 A estrutura de pastas do projeto será organizada da seguinte forma:
 
+
+
 mary-cosmeticos/
 │
 ├── assets/
@@ -40,6 +42,8 @@ mary-cosmeticos/
 ├── ...
 ├── README.md
 └── ...
+
+
 Instruções de Configuração
 Clone este repositório:
 

@@ -44,7 +44,7 @@ Instruções de Configuração
 Clone este repositório:
 
 sh
-git clone https://github.com/seu-usuario/mary-cosmeticos.git
+git clone https://github.com/DevPaulo-byte/WebStore
 Abra o arquivo index.html no seu navegador para visualizar o site.
 
 Modifique os arquivos HTML, CSS e JavaScript conforme necessário para personalizar o conteúdo e estilo do site.
